@@ -36,8 +36,6 @@ for post, score in negative_posts[:10]:
 
 <H3>Inference:</H3>
 Use of NLTK and VADER to analyze text sentiments automatically.
-
 Use of SentimentIntensityAnalyzer() to perform sentiment analysis.
-
 Interpretation of polarity scores and filtering negative feedback from real-world social media data.
 
